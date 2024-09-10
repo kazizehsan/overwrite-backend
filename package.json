@@ -1,6 +1,6 @@
 {
   "name": "overwrite-backend",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Overwrite backend on AWS Lambda",
   "repository": "https://github.com/kazizehsan/overwrite-backend.git",
   "author": "Kazi Ehsan Aziz <kazizehsan@gmail.com>",
@@ -129,9 +129,9 @@
     "commitizen": {
       "path": "./node_modules/@ryansonshine/cz-conventional-changelog"
     },
-    "s3BucketName": "overwrite",
+    "s3BucketName": "ovwrite-api",
     "region": "ap-south-1",
-    "cloudFormationStackName": "OverwriteStack"
+    "cloudFormationStackName": "ovwriteAPIStack"
   },
   "main": "dist/index.js"
 }
