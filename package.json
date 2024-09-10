@@ -2,6 +2,8 @@
   "name": "overwrite-backend",
   "version": "1.0.1",
   "description": "Overwrite backend on AWS Lambda",
+  "repository": "https://github.com/kazizehsan/overwrite-backend.git",
+  "author": "Kazi Ehsan Aziz <kazizehsan@gmail.com>",
   "license": "MIT",
   "type": "module",
   "scripts": {
